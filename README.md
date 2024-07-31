@@ -1,4 +1,5 @@
 Tensorflow Object Detection for Submarine
+
 This project implements real-time object detection for a submarine using TensorFlow models. The system is fully AI-operated and eco-friendly, emphasizing vector degrees of freedom (dof) and powered by LiPo batteries. It includes integration with Pixhawk, bidirectional ESC, and brushless motors.
 
 Introduction
